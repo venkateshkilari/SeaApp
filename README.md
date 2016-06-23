@@ -1,2 +1,2 @@
 # SeaApp
-It is a app for a organization Software Engineering Associates
+It is a app for  Software Engineering Associates
