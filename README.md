@@ -1,2 +1,3 @@
 # SeaApp
-It is a app for  Software Engineering Associates
+It is a app for  Software Engineering Associates(S.E.A)
+
